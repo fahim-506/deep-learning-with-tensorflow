@@ -1,2 +1,4 @@
 ipykernel
-tensorflow
+# tensorflow
+tensorflow-macos
+tensorflow-metal
