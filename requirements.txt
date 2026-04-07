@@ -2,3 +2,5 @@ ipykernel
 # tensorflow
 tensorflow-macos
 tensorflow-metal
+matplotlib
+numpy
