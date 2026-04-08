@@ -4,3 +4,4 @@ tensorflow-macos
 tensorflow-metal
 matplotlib
 numpy
+pandas
