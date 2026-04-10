@@ -4,3 +4,4 @@ tensorflow-metal
 matplotlib
 numpy
 pandas
+scikit-learn
