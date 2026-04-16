@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+pizza_steak/
+best_model_SavedModel_format/
+*.zip
+*.png
+*.keras
+*.h5
