@@ -222,3 +222,4 @@ best_model_SavedModel_format/
 *.png
 *.keras
 *.h5
+*.jpeg
